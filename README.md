@@ -1,5 +1,5 @@
-###npm install 
+#npm install 
 
 ---
 
-npx knex migrate:make user -- create db
+#npx knex migrate:make user -- create db
